@@ -103,6 +103,3 @@ int main()
 
 Thus a LED is interfaced with ARM LPC1768 microprocessor and its blinking was 
 verified successfully.
-
-
-
